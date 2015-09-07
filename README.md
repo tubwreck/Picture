@@ -11,6 +11,8 @@ Use at least:
 5. One (or more) EllipseAsset objects.
 6. One (or more) PolygonAsset objects.
 
+Similar to the firs two challenges: fork this repository to your own account, then edit ```picture.py```.
+
 See:
 
 [General info on using ggame](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Displaying-Graphics)
