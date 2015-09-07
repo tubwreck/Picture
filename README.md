@@ -17,4 +17,4 @@ See:
 
 [Detailed info on using ggame](http://brythonserver.github.io/ggame/)
 
-Note: this challenge will be tested for your name and sources only. 
+Note: this challenge will be *automatically* tested for your name and sources *only*. 
