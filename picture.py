@@ -1,5 +1,9 @@
-from ggame import App
+"""
+picture.py
+Author: <your name here>
+Credit: <list sources used, if any>
 
-myapp = App()
+Assignment:
 
-myapp.run()
+something here
+"""
