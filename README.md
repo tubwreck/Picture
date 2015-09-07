@@ -16,3 +16,5 @@ See:
 [General info on using ggame](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Displaying-Graphics)
 
 [Detailed info on using ggame](http://brythonserver.github.io/ggame/)
+
+Note: this challenge will be tested for your name and sources only. 
