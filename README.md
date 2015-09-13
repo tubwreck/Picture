@@ -15,7 +15,7 @@ Similar to the first two challenges: fork this repository to your own account, t
 
 See:
 
-[General info on using ggame](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Displaying-Graphics)
+[General info on using ggame](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/Displaying-Graphics)
 
 [Detailed info on using ggame](http://brythonserver.github.io/ggame/)
 
