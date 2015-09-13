@@ -16,7 +16,7 @@ Use at least:
 6. One (or more) PolygonAsset objects.
 
 See:
-https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Displaying-Graphics
+https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/Displaying-Graphics
 for general information on how to use ggame.
 
 See:
