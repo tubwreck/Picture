@@ -37,9 +37,9 @@ thinline = LineStyle(1, black)
 
 body = PolygonAsset([(0,0), (50,50), (50,100), (0,0)], thinline, red)
 mySprite = Sprite(body)
+mySprite.position = (100,100)
 
 myapp.run()
-mySprite.position = (100,100)
 
     
 # add your code here /\  /\  /\
