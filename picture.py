@@ -39,7 +39,7 @@ bodyShape = [
     ]
 
 print (bodyShape)
-print (bodyShape * 2)
+print (bodyShape * ))
 
 pcar = PolygonAsset(bodyShape, thinline, red)
 mySprite = Sprite(pcar)
