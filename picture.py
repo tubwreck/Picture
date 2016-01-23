@@ -40,7 +40,7 @@ pcar = PolygonAsset([
     ], thinline, red)
 mySprite = Sprite(pcar)
 mySprite.position = (100,100)
-
+mySprite.rotation = 180
 
     
 # add your code here /\  /\  /\
