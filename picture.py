@@ -35,7 +35,9 @@ black = Color(0x000000, 1.0)
 thinline = LineStyle(1, black)
 
 
-pcar = PolygonAsset([(0,0), (50,50), (50,100), (0,0)], thinline, red)
+pcar = PolygonAsset([
+    (20,10), (10,20),(15,4),(60,50),(80,70),(140,65),(210,25),(200,10),(20,10)
+    ], thinline, red)
 mySprite = Sprite(pcar)
 mySprite.position = (100,100)
 
