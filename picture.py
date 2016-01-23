@@ -34,10 +34,14 @@ black = Color(0x000000, 1.0)
 
 thinline = LineStyle(1, black)
 
-
-pcar = PolygonAsset([
+bodyShape = [
     (20,190), (10,180),(15,160),(60,150),(80,130),(140,135),(210,175),(200,190),(20,190)
-    ], thinline, red)
+    ]
+
+print (bodyShape)
+print (bodyShape * 2)
+
+pcar = PolygonAsset(bodyShape, thinline, red)
 mySprite = Sprite(pcar)
 mySprite.position = (1000,400)
 
