@@ -35,11 +35,10 @@ black = Color(0x000000, 1.0)
 thinline = LineStyle(1, black)
 
 
-body = PolygonAsset([(0,0), (50,50), (50,100), (0,0)], thinline, red)
-mySprite = Sprite(body)
+pcar = PolygonAsset([(0,0), (50,50), (50,100), (0,0)], thinline, red)
+mySprite = Sprite(pcar)
 mySprite.position = (100,100)
 
-myapp.run()
 
     
 # add your code here /\  /\  /\
