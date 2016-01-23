@@ -36,11 +36,11 @@ thinline = LineStyle(1, black)
 
 
 pcar = PolygonAsset([
-    (20,10), (10,20),(15,40),(60,50),(80,70),(140,65),(210,25),(200,10),(20,10)
+    (20,190), (10,180),(15,160),(60,150),(80,130),(140,135),(210,175),(200,190),(20,190)
     ], thinline, red)
 mySprite = Sprite(pcar)
-mySprite.position = (100,100)
-mySprite.rotation = 180
+mySprite.position = (1000,400)
+
 
     
 # add your code here /\  /\  /\
